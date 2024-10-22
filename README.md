@@ -1,6 +1,6 @@
 # YOLO-SAM-video
 The following code processes a video through YOLOv8 and SAM and saves various information such as binary masks, segmentation outputs, etc.,
-The main intention behind this is not to inference (for real-time purposes), but rather testing your pre-trained model on any video and saving the data for e.g. further or fine tuning.
+The main intention behind this is not for inference (for real-time purposes), but rather testing your pre-trained model on any video and saving the data for e.g. further or fine tuning.
 
 
 # Installation
